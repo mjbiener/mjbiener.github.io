@@ -7,7 +7,7 @@ header {
   background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
-.brushes {
+h2.brushes {
   font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
